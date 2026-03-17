@@ -1,7 +1,3 @@
-# Hello World!
-
-I'm anon, with a burning passion for technology and open-source development!
-
 ## About Me
 - Teenager with a big dream to make an impact in the tech world.
 - Experienced in **Rust**, and **Python**.
