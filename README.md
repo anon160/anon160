@@ -1,5 +1,4 @@
 ## About Me
-- Teenager with a big dream to make an impact in the tech world.
 - Experienced in **Rust**, and **Python**.
 - Passion for self hosting.
 
